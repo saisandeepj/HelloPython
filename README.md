@@ -1,6 +1,6 @@
-# HelloPython
+# HelloPython  - Change Logs
 
 
-#/usr/bin/python3
+Changing the read me file to include only the changes. 
 
-print("This is my first py file on github")
+1. Added T1.py file to the HelloPython repository.
